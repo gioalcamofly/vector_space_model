@@ -14,10 +14,17 @@ def getFiles():
 
     return files
 
-def getOutFiles():
+def getOutTfFiles():
     files = []
     for i in range(8):
-        files.append(open('../out' + str(i + 1) + '_out.txt', 'w'))
+        files.append(open('../texto' + str(i + 1) + '_tf_out.txt', 'w'))
+
+    return files
+
+def getOutTfIdfFiles():
+    files = []
+    for i in range(8):
+        files.append(open('../texto' + str(i + 1) + '_tfidf_out.txt', 'w'))
 
     return files
 
@@ -36,6 +43,23 @@ def stemmer(files):
 
     return stemmed_texts
 
+
+def write_files(feature_names, files, weight):
+    index = 0
+
+    for file in files:
+
+        for fn in feature_names:
+            file.write(fn + "\t")
+
+        file.write("\n\n")
+
+        for f in weight[index]:
+            file.write(str(f) + "\t")
+
+        index = index + 1
+
+
 files = getFiles()
 
 
@@ -50,7 +74,8 @@ tfidf_vectorizer = TfidfVectorizer(stop_words='english')
 X = vectorizer.fit_transform(stemmed_texts)
 Y = tfidf_vectorizer.fit_transform(stemmed_texts)
 
-out_files = getOutFiles()
+tf_files = getOutTfFiles()
+tfidf_files = getOutTfIdfFiles()
 
 index = 0
 feature_names = vectorizer.get_feature_names()
@@ -59,27 +84,14 @@ tfidf = Y.toarray()
 
 
 
-for file in out_files:
 
-    for fn in feature_names:
-        file.write(fn + "\t")
-
-    file.write("\n\n")
-
-    for f in tf[index]:
-        file.write(str(f) + "\t")
-
-    file.write("\n\n")
-
-    for f in tfidf[index]:
-        file.write(str(f) + "\t")
-
-    index = index + 1
-
+write_files(feature_names, tf_files, tf)
+write_files(feature_names, tfidf_files, tfidf)
 
 
 inverted_file = open('../inverted.txt' , 'w')
 tf_transpose = tf.transpose()
+
 index = 0
 
 for fn in feature_names:
