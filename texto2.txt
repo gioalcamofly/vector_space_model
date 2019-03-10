@@ -1,0 +1,51 @@
+David Mayman  has a vision for personal aviation that he’s spent the past dozen years and millions of his personal fortune chasing. He hasn’t accepted the convention that jetpacks were just a misguided fantasy for the future; his company, Jetpack Aviation, has been building them and he’s been zooming around in publicity-grabbing stunts in a plea to the public that there’s room to dream when it comes to human flight.
+
+And while an eight-person startup aiming to build out a fleet of $380,000 “flying motorcycles” might seem like a tall order, Y Combinator,  a top accelerator known for its occasionally bizarre bets, is gambling on the company and its jet engine-obsessed CEO in one of its latest investments.
+
+
+
+Jetpack  Aviation is about to become a very different company. The startup has launched pre-orders this week for the moonshot of moonshots, the Speeder, a personal vertical take-off and landing vehicle with a svelte concept design that looks straight out of Star Wars or Halo.
+
+Deep-pocketed, sci-fi-minded buyers are going to have to fork over $10,000 just to get a spot in the pre-order line for the first vehicles to ship, but the startup’s founder seems to see the campaign as less about the money than it is about the confirmation that there are people interested in planting a stake in his wild company’s future success.
+
+“I think it’s a validation statement for all of us,” Mayman tells TechCrunch. “If you look at how long Tesla took to deliver the Model 3 to customers, I think people understand that this is not something that’s a Kickstarted pre-delivery campaign where at the tail-end of it we’re immediately going to be delivering product.”
+
+There are gambles and then there are flying motorcycles. This is frankly an atypical startup for YC to fund, but it is also an unconventional business path for Mayman, who has largely been self-financing his jetpack-building obsession for the past 12 years. For the Australian CEO, the YC investment is mainly about gaining access to Silicon Valley’s network of VCs, though he also acknowledges it’s a fair assumption that SF breeds the type of executive that might be interested in pre-ordering something so seemingly outlandish. 
+
+“I can’t imagine someone not being excited about a flying motorcycle,” YC partner Jared Friedman told TechCrunch in an email. “Jetpack Aviation created the future with Speeder, and I look forward to seeing how this technology transforms the dreaded commute, vacation travel, and everyday errands.”
+While much of the excitement Mayman has raised for his company’s jetpacks has relied on the spectacle of prototype demos in front of throngs of news networks (Jetpack Aviation has unsurprisingly partnered with Red Bull), the company has yet to build a full-scale prototype of the Speeder, though he says their new round of funding should get them there.
+
+
+Mayman flying a jetpack around the Statue of Liberty in 2015
+
+
+Can they actually build this? That’s seems to be a pretty valid question.
+
+In our conversation, Mayman acknowledges upfront that:
+
+The Speeder is “at least” two years of development time away from ending up in customer hands.
+The company will have to raise “tens of millions” of dollars to ship this design.
+There are still plenty of unknowns.
+Jetpack Aviation’s current design is more ambitious than most helicopter-shaped concept VTOL vehicles being pursued by companies like Uber, namely due to its relatively sleek design where the human rider is directly above a set of several gimbal-mounted jet engines.
+
+The company claims finished designs will move faster than 150 mph at altitudes up to 15,000 feet. The flight time is still a limiting factor; max flight times for the models are estimated to be around 30 minutes. The company is planning a number of versions, including an ultralight model that complies with some federal regulations and won’t require a pilot’s license, the company says.
+
+The startup’s most pertinent problem is creating the autonomous stabilization technologies that will make flying the Speeder effortless and safe. Mayman notes that most VTOL designs look like quadcopters simply because the physics of putting weight directly on top of the thrust system is so challenging. “It’s like trying to balance a pencil on your finger,” he says.
+
+His team has been training people to use their jetpacks — now in their 11th design iteration — and say it takes about a week to get potential flyers up-and-running with the particulars of the system. But Mayman says he wants this to be a device that just works, a design concept that made a lot of sense when Steve Jobs was using it to refer to the simplicity of the iPad, but feels a tad more aggressive when presented with the rendered images of someone flying this thing over city centers:
+
+
+
+A lot of the industry’s existing work around autonomous flight and stabilization for drone aircraft really doesn’t account for Jetpack Aviation’s design, though Mayman says they’ve already made some significant progress with their 1:3 scale prototype. He also notes that the company does have a “less elegant-looking” plan-B design if they determine the centrally clustered jet engines are too much of a stabilization liability.
+
+Indeed, the key for getting a concept like this off the ground and ensuring the company doesn’t miserably fail is being flexible about how this vision matures, Mayman says, noting that they’re approaching the vehicle with multiple designs and multiple considerations for how the regulatory environment for certification shapes up, including work on a separate military version and consideration for designs more focused on emergency response like rapid medical evacuation.
+
+Asked whether pre-orderers plunking down $10K might be disappointed by a different-looking product, the founder said that they’ve done enough modeling to know that what they build will fall into a roughly similar design. “It may not look exactly like what we’ve rendered, but I’m confident that it’s still going to be the same sort of concept, a motorcycle or jet-ski size and shape.”
+
+It is certainly a unique choice for the company to launch its pre-orders already with so much in the air, but it’s fairly apparent that they are looking to emulate Tesla here, and if people with nearly $400K to throw around want to buy a jet-engine jet-ski, then by all means, let the free market do its thing.
+
+Y Combinator’s $150,000 investment is an early step for the moonshot effort and a vote of confidence that places them on others’ radar. Mayman, for his part, does seem genuinely thrilled about expanding the ambitions of his passion project, even if the road ahead is crowded with obstacles for realizing the vision.
+
+“If you don’t start it, you’re never going to get there,” Mayman says. “If our guys weren’t able to wake up every morning saying, ‘Holy shit, this would be freaking amazing if we can build this,’ then it’s sort of not worth doing. We might as well go do something else.”
+
+

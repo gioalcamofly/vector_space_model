@@ -1,0 +1,29 @@
+Flickr announced today that all Creative Commons images will remain protected on its site – including those uploaded in the past and those that will be added in the future. The news follows Flickr’s November 2018 announcement where it had stated it wouldn’t delete Creative Commons photos already on its service, after switching over to a new business model which put an end to the free terabyte of storage in favor of a new subscription-based service.
+
+There had been concern prior to Flickr’s statement in November that the photography site’s revamped business model would see works deleted from Creative Commons, as a result of its implementation.
+
+That would have been a huge loss to the wider photography community and the web as a whole.
+
+Creative Commons  is a significant resource, as it makes creators’ works freely available through a variety of copyright licenses that respect how the owner wants them shared and/or attributed. Flickr, before being acquired by new owners SmugMug, had been a longtime Creative Commons partner, offering millions of photos under the CC license types on its site.
+
+Though Flickr’s November decision to not delete the CC archive was a good step forward, it didn’t necessarily protect all the CC-licensed photos that would be uploaded to its site in the future. Instead, the company said only those CC photos uploaded prior to November 1, 2018 would be grandfathered in, so to speak.
+
+At the time, CEO at Creative Commons,  Ryan Merkley, expressed some concern about this decision. It wasn’t clear where future CC-licensed photos would end up.
+
+Today, both organizations announce they’ve come to an agreement: all CC-licensed photos and public domain works will continue to be free on Flickr for anyone to upload and share. That’s a step further than simply protecting all the past uploads before the business model transition.
+
+It means that Flickr has committed to continue to steward the Commons, as before.
+
+Today, Flickr hosts more than 500 million CC-licensed works, and that number increases daily.
+
+“Choosing to allow all CC-licensed and public domain works to be uploaded and shared without restrictions or limits comes at a real financial cost to Flickr, which is paid in part by their Pro users. We believe that it’s a valuable investment in the global community of free culture and open knowledge, and it’s a gift to everyone,” said Merkley today, in a blog post announcement about Flickr’s decision.
+
+“We’re grateful for the ongoing investment and enthusiasm from the entire Flickr team, and their commitment to support users who choose to share their works,” he added.
+
+Along with this news, Flickr says it has disabled bulk license change tools in its Settings, Camera Roll and Organizr for Flickr Free accounts in order to prevent users from switching large archives to a free license to take advantage of this decision. Instead, photos’ licenses can only be changed on the photo page itself.
+
+The company additionally said it will now offer “in memoriam” accounts for Flickr members who have passed away, instead of deleting their works if or when a Pro subscription lapses.
+
+Flickr has seen many transitions over the years. It had been bought by Yahoo, which then became a part of (TechCrunch parent) Verizon before being sold off last year to SmugMug. But that move meant the company had to come up with a more sustainable business model in order to survive.
+
+It’s unclear if Flickr will have the resources to make this new commitment to the Creative Commons indefinitely without coming up with other monetization options beyond Pro subscriptions, but the company has committed on building out features focused on users’ needs, not on catering to advertisers. It hopes to make its service valuable and worth paying for, instead of being the “digital shoebox” that massive amounts of free storage led it to become over the years.

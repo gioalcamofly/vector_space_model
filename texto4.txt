@@ -1,0 +1,33 @@
+The influential Massachusetts Senator and Presidential hopeful Elizabeth Warren has been a longtime critic of the consolidation of economic power by Amazon,  Google,  and Facebook. Now she’s making their break-up a key component of her Presidential platform.
+
+Warren has just released her plan for breaking up big tech, in what seems like a watershed moment for a Democratic nominee. Since Al Gore  famously (infamously?) “invented the internet”, Democratic candidates have turned away from serious regulation of technology companies, preferring instead to receive their campaign contributions.
+
+Eric Schmidt and Google donors were hugely important to the Obama campaign, and big tech companies were among his biggest supporters.
+
+Now, Warren has said (on Medium no less) that the massive market power that Google, Facebook,  and Amazon wield is a threat and will be treated accordingly.
+
+“Twenty-five years ago, Facebook, Google, and Amazon didn’t exist,” writes Warren. “Now they are among the most valuable and well-known companies in the world. It’s a great story — but also one that highlights why the government must break up monopolies and promote competitive markets.”
+
+The parallel she uses to make her case is the breakup of Microsoft, which she weirdly calls “the tech giant of its time” (Microsoft is still a tech giant), and holds as perhaps the last example when government went toe to toe with the technology industry.
+
+“The government’s antitrust case against Microsoft helped clear a path for Internet companies like Google and Facebook to emerge,” Warren writes.
+
+But now the companies that flourished in the wake of the Microsoft case have, themselves, become too powerful, she argues.
+
+“They’ve bulldozed competition, used our private information for profit, and tilted the playing field against everyone else. And in the process, they have hurt small businesses and stifled innovation,” writes Warren.
+
+The key components of the Warren plan include passing legislation that would designate companies with annual global revenue above $25 billion that provide marketplace, exchange, or third-party connectivity as “platform utilities” and prohibit those companies from owning participants on their platforms.
+
+It’s a dragnet that now encompasses Alphabet and Amazon (but I don’t think it touches Facebook?). The new law would also be required to meet a standard of fair and non-discriminatory use with their users, and platforms would be restricted from sharing user data with third parties.
+
+For companies with revenues below $25 billion, they’d be required to adhere to the fair use standard.
+
+Warren would give state attorneys general and private parties the right to sue a platform for conduct that violates those requirements and the government could fine a company 5% of their annual revenue for violating the terms of the new legislation.
+
+As Warren notes, “Amazon Marketplace, Google’s ad exchange, and Google Search would be platform utilities under this law. Therefore, Amazon Marketplace and Basics, and Google’s ad exchange and businesses on the exchange would be split apart. Google Search would have to be spun off as well.”
+
+The second (and more aggressive) part of Warren’s plan would be the appointment of regulators to roll back acquisitions that Warren deems anti-competitive. In Amazon’s case that means Whole Foods and Zappos  would have to be spun back out. Alphabet would have to unwind Google’s acquisitions fo Waze, Nest, and DoubleClick (but not YouTube?), and Facebook would have to part with WhatsApp and Instagram.
+
+“Unwinding these mergers will promote healthy competition in the market — which will put pressure on big tech companies to be more responsive to user concerns, including about privacy,” Warren writes.
+
+Her call for regulation is a big moment for the tech industry, it should also serve as a wake-up call for these companies to do more than just pay lip service to the problems their dominance is causing in the marketplace.
